@@ -1,12 +1,12 @@
 
-const Comp= ()=>{
+const View= ()=>{
     return(
         <div className="box">
             <p>
-                Comp2
+                About
             </p>
         </div>
     )
 }
 
-export default Comp
+export default View
