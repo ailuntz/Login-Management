@@ -28,8 +28,9 @@ function getItem(
 }
 
 const items: MenuItem[] = [
-    getItem('Option 1', '1', <PieChartOutlined />),
+   
     getItem('Option 2', '2', <DesktopOutlined />),
+    getItem('Option 1', '1', <PieChartOutlined />),
     getItem('User', 'sub1', <UserOutlined />, [
         getItem('Tom', '3'),
         getItem('Alex', '5'),
