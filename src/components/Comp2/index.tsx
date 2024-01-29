@@ -3,7 +3,7 @@ const Comp= ()=>{
     return(
         <div className="box">
             <p>
-                Comp2
+                Comp22
             </p>
         </div>
     )
