@@ -33,7 +33,7 @@ const View = () => {
     <div className='home'>
         <p>这是Page1页面内容</p>
         <p>{num}</p>
-        <button onClick={changeNum}>同步按钮</button>
+        <button onClick={changeNum}>sync</button>
         <button onClick={changeNum2}>异步按钮</button>
 
         <p>{sarr}</p>
